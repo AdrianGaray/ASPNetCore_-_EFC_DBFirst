@@ -55,6 +55,7 @@ en **Startup.cs**, en el metodo `ConfigureServices()`.
 
 ## Crear el Controlador y las Vistas utilizando Scaffolding
 Desde la carpeta **Controllers**, seleccionar el menú Add -> Controller, la siguiente plantilla:
+
 ![](plantilla.png)
 
 Seleccionar Clase de Modelos y Contexto de datos.

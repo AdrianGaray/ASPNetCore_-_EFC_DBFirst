@@ -14,10 +14,11 @@ Por lo tanto, podemos decir que Entity Framework puede crear sus clases de model
 ![Relacion Uno a Muchos](Relacion_CategoriaProductos.png)
 
 ## Instalacion Entity Framework Core
-Instalacion del paquete `Microsoft.EntityFrameworkCore.SqlServer`
+Instalacion del paquete: `Microsoft.EntityFrameworkCore.SqlServer`
 ![Entity Framework Core](Entity%20Framework%20Core.jpg)
 
 Instalacion del paquete `Microsoft.EntityFrameworkCore.Tools`
+
 ![Microsoft.EntityFrameworkCore.Tools](Microsoft.EntityFrameworkCore.Tools.jpg)
 
 Desde la carpeta dependencias se ven los 2 paquetes instalados.
@@ -66,7 +67,7 @@ Se genera el controlador y la carpeta Categorías en la carpeta View, para reali
 
 ![](Controllers.png)
 
-Carpeta Views
+Carpeta Views:
 
 ![](Views.jpg)
 

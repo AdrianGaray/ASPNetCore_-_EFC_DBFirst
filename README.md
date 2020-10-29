@@ -20,5 +20,6 @@ Instalacion del paquete `Microsoft.EntityFrameworkCore.SqlServer`
 Instalacion del paquete `Microsoft.EntityFrameworkCore.Tools`
 ![](../../../Pictures/Microsoft.EntityFrameworkCore.Tools.png)
 
+
 Desde la carpeta dependencias se ven los 2 paquetes instalados.
 ![](../../../Pictures/Paquetes.png)

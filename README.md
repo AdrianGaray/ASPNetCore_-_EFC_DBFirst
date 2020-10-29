@@ -15,11 +15,10 @@ Por lo tanto, podemos decir que Entity Framework puede crear sus clases de model
 
 ## Instalacion Entity Framework Core
 Instalacion del paquete `Microsoft.EntityFrameworkCore.SqlServer`
-![](../../../Pictures/Entity%20Framework%20Core.png)
+![Entity Framework Core](Entity%20Framework%20Core.jpg)
 
 Instalacion del paquete `Microsoft.EntityFrameworkCore.Tools`
-![](../../../Pictures/Microsoft.EntityFrameworkCore.Tools.png)
-
+![Microsoft.EntityFrameworkCore.Tools](Microsoft.EntityFrameworkCore.Tools.jpg)
 
 Desde la carpeta dependencias se ven los 2 paquetes instalados.
-![](../../../Pictures/Paquetes.png)
+![Paquetes](Paquetes.jpg)

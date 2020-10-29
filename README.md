@@ -11,7 +11,7 @@ Por lo tanto, podemos decir que Entity Framework puede crear sus clases de model
 
 ## Creación de la base de datos dbproductos, la relación es de Uno a Muchos:
 - `1 Categoría puede tener Mucho Productos`
-![](../../../Pictures/Relacion_CategoriaProductos.png)
+![Relacion Uno a Muchos](Relacion_CategoriaProductos.png)
 
 ## Instalacion Entity Framework Core
 Instalacion del paquete `Microsoft.EntityFrameworkCore.SqlServer`

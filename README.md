@@ -1,4 +1,3 @@
-Base de datos existentes DBFirst
 
 ## Enfoque Database First
 ```
